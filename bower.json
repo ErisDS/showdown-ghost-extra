@@ -1,0 +1,24 @@
+{
+  "name": "showdown-ghost-extra",
+  "homepage": "https://github.com/tivie/showdown-ghost-extra",
+  "main": "src/showdown-ghost-extra.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "showdown",
+    "ghost",
+    "extra",
+    "multiple udnerscores"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

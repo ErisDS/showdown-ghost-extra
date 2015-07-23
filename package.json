@@ -1,0 +1,10 @@
+{
+  "name": "showdown-ghost-extra",
+  "version": "0.0.1",
+  "main": "./src/showdown-ghost-extra.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tivie/showdown-highlight.git",
+    "web": "https://github.com/tivie/showdown-highlight"
+  }
+}
